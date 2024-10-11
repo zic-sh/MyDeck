@@ -1,0 +1,24 @@
+{
+  "originHash" : "7884ab370d68f2775a87bfaa7e44d00e56f9b73a0faa607b9d788ea1f67bdc54",
+  "pins" : [
+    {
+      "identity" : "mycard",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zic-sh/MyCard.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "75892d153a1323ed7e2deddd54dca9fb689fef8d"
+      }
+    },
+    {
+      "identity" : "myshuffle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zic-sh/MyShuffle.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "9d7c8644d49c87500b09cc97cceb33cca3538843"
+      }
+    }
+  ],
+  "version" : 3
+}
