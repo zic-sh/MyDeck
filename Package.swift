@@ -13,7 +13,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/zic-sh/MyShuffle.git", branch: "master"),
-        .package(url: "https://github.com/zic-sh/MyCard.git", from: "0.0.1"),
+        .package(url: "https://github.com/zic-sh/MyCard.git", branch: "master"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
